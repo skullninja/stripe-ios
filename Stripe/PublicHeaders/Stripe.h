@@ -30,6 +30,7 @@
 #import "STPImageLibrary.h"
 #import "STPPaymentActivityIndicatorView.h"
 #import "STPPaymentCardTextField.h"
+#import "STPPaymentCardTextFieldViewModel.h"
 #import "STPPaymentConfiguration.h"
 #import "STPPaymentContext.h"
 #import "STPPaymentMethod.h"
