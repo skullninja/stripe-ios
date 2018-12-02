@@ -26,6 +26,7 @@
 #import "STPCoreViewController.h"
 #import "STPCustomer.h"
 #import "STPFormEncodable.h"
+#import "STPFormTextField.h"
 #import "STPImageLibrary.h"
 #import "STPPaymentActivityIndicatorView.h"
 #import "STPPaymentCardTextField.h"
